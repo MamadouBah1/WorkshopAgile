@@ -1,0 +1,52 @@
+{ 
+    "_id" : ObjectId("5ae1da8617d93a22a715bc9d"), 
+    "Pseudo" : "Pseudo1", 
+    "Password" : "motdepasse1", 
+    "NomComplet" : "Tarik Malouane", 
+    "DateNaissance" : ISODate("2000-12-11T23:00:00.000+0000"), 
+    "Pays" : "France", 
+    "Langue" : "FR", 
+    "CompteFacebook" : "Tarik69800", 
+    "Avatar" : "photo", 
+    "Email" : "tarikmalouane@yahoo.fr", 
+    "DateInscription" : ISODate("2000-12-11T23:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5ae1de3517d93a22a715bc9e"), 
+    "Pseudo" : "Pseudo2", 
+    "Password" : "motdepasse2", 
+    "NomComplet" : "Tony Daustin", 
+    "DateNaissance" : ISODate("2000-10-11T22:00:00.000+0000"), 
+    "Pays" : "Senegal", 
+    "Langue" : "FR", 
+    "CompteFacebook" : "Tony69003", 
+    "Avatar" : "photo", 
+    "Email" : "tonydautin@yahoo.fr", 
+    "DateInscription" : ISODate("2000-12-11T23:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5ae1df2017d93a22a715bca0"), 
+    "Pseudo" : "Pseudo3", 
+    "Password" : "motdepasse3", 
+    "NomComplet" : "Seydina Mohamed Sall", 
+    "DateNaissance" : ISODate("2000-08-11T22:00:00.000+0000"), 
+    "Pays" : "Senegal", 
+    "Langue" : "FR", 
+    "CompteFacebook" : "Seydina69002", 
+    "Avatar" : "photo", 
+    "Email" : "sms@yahoo.fr", 
+    "DateInscription" : ISODate("2000-12-11T23:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5ae1e00417d93a22a715bca1"), 
+    "Pseudo" : "Pseudo4", 
+    "Password" : "motdepasse4", 
+    "NomComplet" : "Bah Mamadou", 
+    "DateNaissance" : ISODate("2000-06-11T22:00:00.000+0000"), 
+    "Pays" : "Guinee", 
+    "Langue" : "FR", 
+    "CompteFacebook" : "mb9100", 
+    "Avatar" : "photo", 
+    "Email" : "mamadoubah@yahoo.fr", 
+    "DateInscription" : ISODate("2000-12-11T23:00:00.000+0000")
+}
